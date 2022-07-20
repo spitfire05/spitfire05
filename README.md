@@ -1,11 +1,11 @@
-👋 Hello, my name is Michał, and I'm a...
+### 👋 Hello, my name is Michał, and I'm a...
 
 * 🙍‍♂️ Software Development Manager at [Emerson Automation Solutions](https://www.emerson.com/en-us/automation-solutions)
 * 📚 Automatic Control Engineer by academic background
 * 💻 Hobby open-source programmer
 * 👨‍💻 Former indie game dev at [Forgotten Hope](http://www.forgottenhope.warumdarum.de/)
 
-I'm currently very passionate about:
+### I'm currently very passionate about:
 
 * 🦀 Rust
 * #️⃣ C#
