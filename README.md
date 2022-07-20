@@ -5,7 +5,7 @@
 * 💻 Hobby open-source programmer
 * 👨‍💻 Former indie game dev at [Forgotten Hope](http://www.forgottenhope.warumdarum.de/)
 
-### I'm currently very passionate about:
+### ❤️‍🔥 I'm currently very passionate about:
 
 * 🦀 Rust
 * #️⃣ C#
